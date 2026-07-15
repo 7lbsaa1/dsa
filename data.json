@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "fa-solid fa-wave-square",
+        "title": "HYBRID ANC",
+        "desc": "Active Noise Cancellation"
+    },
+    {
+        "id": 2,
+        "icon": "fa-solid fa-battery-full",
+        "title": "50H BATTERY",
+        "desc": "Long-lasting playtime"
+    },
+    {
+        "id": 3,
+        "icon": "fa-solid fa-phone-volume",
+        "title": "CRYSTAL CALLS",
+        "desc": "Clear voice pickup"
+    },
+    {
+        "id": 4,
+        "icon": "fa-solid fa-bolt",
+        "title": "QUICK CHARGE",
+        "desc": "10 min = 5 hours"
+    }
+]
